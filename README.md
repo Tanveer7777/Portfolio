@@ -68,7 +68,7 @@ Description:
 - Calculated key KPIs including Total Revenue, AOV, and Customer Lifetime Value (CLV)
 - Performed customer and time-based analysis to identify peak sales periods and high-value segments
 
-Repository: [View on GitHub](https://github.com/tanveer74799/retail-sales-analysis)
+Repository: [View on GitHub](https://github.com/Tanveer7777/SQL_Projects/blob/24d61e1e34723da20c39fcb1cb1feef24105b839/Retail_Sales_Analysis_By_SQL.sql)
 
 ---
 
